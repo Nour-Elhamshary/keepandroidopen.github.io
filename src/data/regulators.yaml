@@ -731,11 +731,11 @@ countries:
               zh-CN: "向[明尼苏达州 总检察长消费者保护局](https://www.ag.state.mn.us/office/complaint.asp)提出投诉"
               zh-TW: "向[明尼蘇達州 總檢察長消費者保護局](https://www.ag.state.mn.us/office/complaint.asp)提出申訴"
           - text:
-              en: "Contact Senator [Amy Klobuchar](https://www.klobuchar.senate.gov/contact)"
-              fr: "Contactez la sénatrice [Amy Klobuchar](https://www.klobuchar.senate.gov/contact)"
-              da: "Kontakt senator [Amy Klobuchar](https://www.klobuchar.senate.gov/contact)"
-              zh-CN: "联系参议员 [埃米·克洛布彻](https://www.klobuchar.senate.gov/contact)"
-              zh-TW: "聯絡參議員 [艾美·克羅布夏](https://www.klobuchar.senate.gov/contact)"
+              en: "Contact Senator [Amy Klobuchar](https://www.klobuchar.senate.gov/public/index.cfm/email-amy)"
+              fr: "Contactez la sénatrice [Amy Klobuchar](https://www.klobuchar.senate.gov/public/index.cfm/email-amy)"
+              da: "Kontakt senator [Amy Klobuchar](https://www.klobuchar.senate.gov/public/index.cfm/email-amy)"
+              zh-CN: "联系参议员 [埃米·克洛布彻](https://www.klobuchar.senate.gov/public/index.cfm/email-amy)"
+              zh-TW: "聯絡參議員 [艾美·克羅布夏](https://www.klobuchar.senate.gov/public/index.cfm/email-amy)"
           - text:
               en: "Contact Senator [Tina Smith](https://www.smith.senate.gov/contact)"
               fr: "Contactez la sénatrice [Tina Smith](https://www.smith.senate.gov/contact)"
@@ -1560,6 +1560,17 @@ countries:
           zh-CN: "向 [欧盟竞争政策局](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en) 提出投诉"
           zh-TW: "向 [歐盟競爭政策局](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en) 提出申訴"
     children:
+      - id: denmark
+        name:
+          en: "Denmark"
+          da: "Danmark"
+        items:
+          - text:
+              en: "Contact the Danish [Consumer Ombudsman](https://forbrugerombudsmanden.dk/consumer-ombudsman)"
+              da: "Kontakt [Forbrugerombudsmanden](https://forbrugerombudsmanden.dk/)"
+          - text:
+              en: "Contact the Danish Competition and Consumer Authority's [Tech Division](https://en.kfst.dk/competition/contact-a-competition-division/tech)"
+              da: "Kontakt Konkurrence- og Forbrugerstyrelsens [Center for Tech](https://kfst.dk/konkurrenceforhold/kontakt-et-konkurrencecenter/center-for-tech-tech)"
       - id: czech-republic
         name:
           ar: "الجمهورية التشيكية"
@@ -1695,6 +1706,17 @@ countries:
               el: "Επικοινωνήστε με την [Υπηρεσία Αντιμονοπωλίου της Σλοβακικής Δημοκρατίας](https://www.antimon.gov.sk/en/)"
               zh-TW: "聯絡[斯洛伐克共和國反壟斷辦公室](https://www.antimon.gov.sk/en/)"
               zh-CN: "联系[斯洛伐克共和国反垄断办公室](https://www.antimon.gov.sk/en/)"
+      - id: hungary
+        name:
+          en: "Hungary"
+          hu: "Magyarország"
+        items:
+          - text:
+              en: "E-mail: [ugyfelszolgalat@gvh.hu](mailto:ugyfelszolgalat@gvh.hu?cc=hungary@keepandroidopen.org)"
+              hu: "E-mail: [ugyfelszolgalat@gvh.hu](mailto:ugyfelszolgalat@gvh.hu?cc=hungary@keepandroidopen.org)"
+          - text:
+              en: "Contact the [Hungarian Competition Authority (Gazdasági Versenyhivatal)](https://www.gvh.hu/en/gvh/2361_en_contact_us)"
+              hu: "Vedd fel a kapcsolatot a [Gazdasági Versenyhivatallal](https://www.gvh.hu/gvh/2361_hu_elerhetosegek_kapcsolatok)"
   - id: united-kingdom
     name:
       fa: "بریتانیای کبیر"
@@ -3127,3 +3149,14 @@ countries:
     - text:
         ar: "[info@eca.org.eg](mailto:info@eca.org.eg?cc=egypt@keepandroidopen.org) :البريد الإلكتروني"
         en: "Email: [info@eca.org.eg](mailto:info@eca.org.eg?cc=egypt@keepandroidopen.org)"
+  - id: hungary
+    name:
+      en: "Hungary"
+      hu: "Magyarország"
+    items:
+      - text:
+          en: "E-mail: [ugyfelszolgalat@gvh.hu](mailto:ugyfelszolgalat@gvh.hu?cc=hungary@keepandroidopen.org)"
+          hu: "E-mail: [ugyfelszolgalat@gvh.hu](mailto:ugyfelszolgalat@gvh.hu?cc=hungary@keepandroidopen.org)"
+      - text:
+          en: "Contact the [Hungarian Competition Authority (Gazdasági Versenyhivatal)](https://www.gvh.hu/en/gvh/2361_en_contact_us)"
+          hu: "Vedd fel a kapcsolatot a [Gazdasági Versenyhivatallal](https://www.gvh.hu/gvh/2361_hu_elerhetosegek_kapcsolatok)"

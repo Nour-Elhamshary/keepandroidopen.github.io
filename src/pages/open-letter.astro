@@ -60,6 +60,7 @@ function linkedinDraftUrl(orgName: string, linkedinUrl: string): string {
     <div class="signatories" id="signatories">
       <div class="sig-rule"></div>
       <h2>Signatories</h2>
+      <p class="sig-count">{signatures.length} organizations</p>
       <ol>
         {signatures.map((sig: any) => (
           <li>
